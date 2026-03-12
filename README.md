@@ -4,6 +4,24 @@ My LeetCode solutions in Python.
 
 ## Problems Solved
 
-1. Two Sum (Arrays)
-2. Maximum Subarray (Arrays)
-3. Contains Duplicate (Hashing)
+### Arrays
+- Two Sum
+- Maximum Subarray
+- Merge Sorted Array
+- Move Zeroes
+
+### Hashing
+- Contains Duplicate
+- Valid Anagram
+- Longest Consecutive Sequence
+
+### Stack
+- Valid Parentheses
+
+### Sliding Window
+- Longest Substring Without Repeating Characters
+
+### Two Pointers
+- Two Sum II
+- Container With Most Water
+- 3Sum
